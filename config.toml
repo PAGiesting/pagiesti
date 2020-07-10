@@ -1,0 +1,4 @@
+baseURL = "https://pagiesting.github.io"
+languageCode = "en-us"
+title = "Paul Giesting, Data and (Geo)Materials Scientist"
+theme = "ananke"
